@@ -1,5 +1,5 @@
 /*
-Programmer: Kyle Absten
+Programmer: Kyle Absten git testing
 Date: 03/17/2020
 Description: This program will simulate a drink machine.  DrinkMachine class is an object that replicates a vending machine.  Main function creates a DrinkMachine
 object.
